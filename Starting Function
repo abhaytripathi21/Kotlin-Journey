@@ -1,0 +1,13 @@
+There are 3 prerequisites functions in kotlin that need to be known before before next step.
+1. main function - main function is the entry point of the program. It is the first function that is called when the program is executed.
+2. print function - print function is used to print the output to the console. It takes a string as an argument and prints it to the console.
+    - In print function we use, print() for without newline and println() for with newline.
+3. read function - input function is used to take input from the user. It takes a string as an argument and returns a string.
+    - In input from user we use, read() for one character as INT and readln() for with newline.
+
+// This is a single-line comment
+/*
+This is a multi-line comment.
+It can span multiple lines.
+Useful for longer explanations.
+*/
